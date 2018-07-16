@@ -1,0 +1,6 @@
+title: Accueil aux réfugiés St-Yves
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
