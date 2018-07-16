@@ -1,4 +1,4 @@
-# carsy.org
+# carsy
 
 ## requirements
 
