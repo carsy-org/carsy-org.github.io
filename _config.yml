@@ -1,4 +1,6 @@
 title: Accueil aux réfugiés St-Yves
+
+# Configuration.
 markdown: kramdown
 exclude:
   - README.md
