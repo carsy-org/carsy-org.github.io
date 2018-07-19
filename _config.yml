@@ -1,6 +1,28 @@
+###
+# Information de base.
+###
+
+# Titre du site web.
 title: Accueil aux réfugiés St-Yves
 
+# Nom de l'organisation.
+organisation: Comité d'accueil aux réfugiés St-Yves
+
+# Nom de l'organisation.
+email: carsaintyves@gmail.com
+
+# Adresse.
+address:
+  - Presbytère Saint-Yves
+  - 2470 Rue Triquet
+  - Ville de Québec, QC G1W 1E2
+
+# Numero de téléphone
+phone_number: (418) 652-2105
+
+###
 # Configuration.
+###
 markdown: kramdown
 exclude:
   - README.md

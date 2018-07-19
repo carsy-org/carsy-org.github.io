@@ -1,17 +1,22 @@
+###
+# Liste des pages.
+###
+# Utilisé pour générer le menu et le bas de page.
+
 - title: Le comité
-  url: index.html
+  url: /
 
 - title: Parrainer
-  url: parrainer.html
+  url: /parrainer.html
 
 - title: Faire un don
-  url: don.html
+  url: /don.html
 
 - title: Actualités
-  url: actualites.html
+  url: /actualites.html
 
 - title: Nous joindre
-  url: joindre.html
+  url: /joindre.html
 
 - title: FAQ
-  url: faq.html
+  url: /faq.html

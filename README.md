@@ -1,4 +1,6 @@
-# carsy
+# carsy.org
+
+> Comité d'accueil aux réfugiés St-Yves
 
 ## requirements
 
