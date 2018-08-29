@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	overflow-x: hidden;
-	font-family: "Segoe UI";
+	font-family: 'Lato', sans-serif;
 }
 
 .top {
@@ -87,7 +87,7 @@ section h1 {
 }
 
 .lead {
-	font-family: "Segoe UI";
+	font-family: 'Lato', sans-serif;
 	font-weight: normal;
 }
 
