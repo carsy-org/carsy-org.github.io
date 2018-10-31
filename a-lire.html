@@ -25,3 +25,32 @@ layout: default
     {% endfor %}
   </div>
 </section>
+
+<section class="jumbotron">
+  <div class="container">
+    <h1>À écouter</h1>
+  </div>
+</section>
+
+<section class="jumbotron">
+  <div class="container cont-actualites">
+      <div class="card actu-card" style="width: 100%;">
+        <img class="card-img-top" src="{{ new.image_url }}">
+        <div class="card-body">
+          <div class="card-title">
+            <h3>Émission De fil en aiguille - 12 octobre 2018</h3>
+          </div>
+          <p class="card-text">
+            Témoignage de John Kasereka Mbusa, réfugié congolais arrivé en janvier 2018, et de Jean Bernier, responsable de l’accompagnement et de l’intégration au Comité d'accueil aux réfugiés Saint-Yves.
+          </p>
+          <p class="card-text">
+            Émission diffusée le 12 octobre 2018 et rendue disponible grâce à l'aimable autorisation de <a href="http://radiogalilee.com">Radio Galilée</a>.
+          </p>
+          <audio controls preload="auto">
+            <source src="/audio/de-fil-en-aiguille-12-octobre.mp3" type="audio/mp3">
+              <p>Votre navigateur ne supporte pas l'audio HTML5. <a href="/audio/de-fil-en-aiguille-12-octobre.mp3">Télécharger l'émission</a> à la place.</p>
+          </audio>
+        </div>
+      </div>
+  </div>
+</section>
